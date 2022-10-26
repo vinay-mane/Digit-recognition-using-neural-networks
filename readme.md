@@ -1,5 +1,5 @@
 
-# character recognition using neural networks
+# Digit recognition using neural networks
 
 Project to learn and study neural networks using TensorFlow
 
