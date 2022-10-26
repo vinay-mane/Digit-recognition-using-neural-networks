@@ -3,12 +3,12 @@
 
 Project to learn and study neural networks using TensorFlow
 
-# Software & Tools
+## Software & Tools
 
 1. Python3
 2. Pip
 
-# Pip Commands
+## Pip Commands
 
 ```bash
   pip install numpy
